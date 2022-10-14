@@ -1,6 +1,42 @@
 en:
+  baseUrl: "https://lookee.how"
   params:
     description: "a"
+
 pt-br:
+  baseUrl: "https://br.lookee.how"
   params:
     description: "coleção de artigos muito profissionais acerca de assuntos dos quais tenho muito conhecimento"
+
+    # home-info mode
+    homeInfoParams:
+      Title: "bem-vindo"
+      Content: sente-se,
+
+    editPost:
+      Text: "Sugerir alterações" # edit text
+
+  menu:
+    main:
+      - identifier: categorias
+        name: categorias
+        url: /categorias/
+        weight: 10
+      - identifier: tags
+        name: tags
+        url: /tags/
+        weight: 20
+
+  taxonomies:
+    categoria: categorias
+
+  # Read: https://github.com/adityatelange/hugo-PaperMod/wiki/FAQs#using-hugos-syntax-highlighter-chroma
+  pygmentsUseClasses: true
+  markup:
+    highlight:
+      noClasses: false
+      # anchorLineNos: true
+      # codeFences: true
+      # guessSyntax: true
+      # lineNos: true
+      # style: monokai

@@ -53,19 +53,19 @@ params:
     safari_pinned_tab: "<link / abs url>"
 
   label:
-    text: "Home"
+    text: "lookee's"
     icon: /apple-touch-icon.png
     iconHeight: 35
 
   # profile-mode
   profileMode:
-    enabled: false # needs to be explicitly set
+    enabled: true # needs to be explicitly set
     title: lookee's
-    subtitle: "this is my site"
-    # imageUrl: "<img location>"
+    subtitle: "place"
+    imageUrl: "../assets/lowkey.png"
     imageWidth: 120
     imageHeight: 120
-    imageTitle: my image
+    imageTitle: lowkey
     buttons:
       - name: Posts
         url: posts
