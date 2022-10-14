@@ -1,4 +1,3 @@
-baseURL: "https://examplesite.com/"
 title: "lookee's"
 paginate: 5
 theme: PaperMod
@@ -62,7 +61,7 @@ params:
     enabled: true # needs to be explicitly set
     title: lookee's
     subtitle: "place"
-    imageUrl: "../assets/lowkey.png"
+    imageUrl: "/lowkey.png"
     imageWidth: 120
     imageHeight: 120
     imageTitle: lowkey
