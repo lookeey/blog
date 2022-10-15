@@ -6,12 +6,12 @@ en:
 pt-br:
   baseUrl: "https://br.lookee.how"
   params:
-    description: "coleção de artigos muito profissionais acerca de assuntos dos quais tenho muito conhecimento"
+    description: "coleção de artigos muito profissionais acerca de assuntos dos quais tenho muito conhecimento, escritos com altímissima habilidade"
 
     # home-info mode
     homeInfoParams:
       Title: "bem-vindo"
-      Content: sente-se,
+      Content: "à minha coleção de artigos muito profissionais acerca de assuntos dos quais tenho muito conhecimento, escritos com altímissima habilidade"
 
     editPost:
       Text: "Sugerir alterações" # edit text
@@ -29,6 +29,7 @@ pt-br:
 
   taxonomies:
     categoria: categorias
+    tag: tags
 
   # Read: https://github.com/adityatelange/hugo-PaperMod/wiki/FAQs#using-hugos-syntax-highlighter-chroma
   pygmentsUseClasses: true

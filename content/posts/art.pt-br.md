@@ -4,7 +4,7 @@ title: "arte"
 date: "2022-10-14"
 description: "eu ainda não sei o que é arte"
 tags: ["art"]
-categorias: ["art", "thought"]
+categorias: ["art"]
 aa: ["lole"]
 aliases: ["art"]
 ShowToc: true

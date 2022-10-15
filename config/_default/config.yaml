@@ -58,7 +58,7 @@ params:
 
   # profile-mode
   profileMode:
-    enabled: true # needs to be explicitly set
+    enabled: false # needs to be explicitly set
     title: lookee's
     subtitle: "place"
     imageUrl: "/lowkey.png"
@@ -73,8 +73,8 @@ params:
 
   # home-info mode
   homeInfoParams:
-    Title: "welcome"
-    Content: take a seat,
+    Title: "lookee's"
+    Content: "collection of very professional writings on topics i am very knowledgeable about"
 
   socialIcons:
     - name: twitter

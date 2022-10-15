@@ -1,6 +1,6 @@
 ---
 author: "lookee"
-title: "art"
+title: "i still don't know what art is"
 date: "2022-10-14"
 description: "i still dont know what art is"
 tags: ["art"]
@@ -11,4 +11,12 @@ TocOpen: true
 weight: 2
 ---
 
-I don't know what art is. I believe that no one really does. That's what we often do when we can't really tell why we do something or what something is: we give it a word and keep it at that. Art, ho
+
+
+Have you ever seen someone stop and stare at something that they are impressed by and say: "That's art!"?
+
+People usually say this in a hyperbolic tone 
+
+
+
+People usually say this in a 
