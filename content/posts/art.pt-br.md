@@ -27,7 +27,7 @@ No entanto, pensar assim tem suas ressalvas. A comunicação é a transmissão d
 
 ## Mensagens na arte
 
-Mesmo que a arte envolva dar forma a uma ideia, (através da criação da obra) nem tudo é _sobre_ um assunto que envia uma mensagem. Há casos em que o artista tem um conceito em mente ao criar a obra, mas a importância desse conceito é relevante apenas para o processo de criação, de modo que o resultado final é uma mera sombra da ideia do artista. Em algumas situações, o artista tenta contextualizar seu trabalho dando-lhe um nome sugestivo, de modo a conectar o consumidor à sua ideia original. Mas a obra *em si* não diz nada. Um exemplo disso é a arte abstrata, ou não figurativa, que na maioria das vezes não envolve informações objetivas.
+Mesmo que a arte envolva dar forma a uma ideia, (através da criação da obra) nem tudo é _sobre_ alguém enviar uma mensagem. Há casos em que o artista tem um conceito em mente ao criar a obra, mas a importância desse conceito é relevante apenas para o processo de criação, de modo que o resultado final é uma mera sombra da ideia do artista. Em algumas situações, o artista tenta contextualizar seu trabalho dando-lhe um nome sugestivo, de modo a conectar o consumidor à sua ideia original. Mas a obra *em si* não diz nada. Um exemplo disso é a arte abstrata, ou não figurativa, que na maioria das vezes não envolve informações objetivas.
 
 Para que servem essas obras, então?
 
@@ -38,14 +38,14 @@ Quando uma obra de arte não expressa ideias majoritariamente objetivas, a sua i
 A obra de arte, nessa situação, pode ser entendida de outra forma. O artista, guiado por qualquer intenção que tenha (seja expressão, protesto, estudo ou qualquer outra coisa) cria um substrato – a obra de arte – que o consumidor pode usar para ajudá-lo a entender um conceito. Dessa forma, a obra de arte é um catalisador, que não altera significativamente o produto, mas auxilia principalmente na sua produção: a formação de uma ideia sólida.
 
 Certo. Assim, a arte pode ser:
- - uma mensagem, colocada de outra forma
- - uma ferramenta para construir ideias sobre
+ - uma mensagem, expressada de uma maneira diferente
+ - uma ferramenta para construir ideias
 
 certo?
 
 ## Arte não é só para nerds
 
-Não vamos esquecer uma das principais razões pelas quais a arte tem sido tão popular e grande.  As pessoas gostam de arte por uma coisa, talvez acima de tudo:
+Não vamos esquecer uma das principais razões pelas quais a arte tem sido tão popular e difundida. As pessoas gostam de arte por uma coisa, talvez acima de tudo:
 
 ### A arte é agradável
 
