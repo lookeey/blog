@@ -4,7 +4,7 @@ title: "i still don't know what art is"
 date: "2022-10-15"
 description: "here's my thought process for that conclusion anyway"
 tags: ["art", "philosophy"]
-categories: ["Pensamentos"]
+categories: ["Thoughts"]
 aliases: ["art"]
 ShowToc: true
 TocOpen: true
@@ -27,7 +27,7 @@ However, thinking like this has its caveats. Communication is the transmission o
 
 ## Messages in art
 
-Even if art involves giving form to an idea, (through the creation of the artwork) not all of it is _about_ a subject sending a message. There are cases where the artist might have had a concept in mind when creating the artwork, but the importance of this concept is only relevant to the process of creation, so the final result is a mere shadow of the artist's idea. In some cases, the artist tries to contextualize their work by giving it a suggestible name, so to connect the consumer to their original idea. But the work *itself* does not say anything. An example of this is abstract, or non-figurative art, which most often does not encompass objective information.
+Even if art involves giving form to an idea, (through the creation of the artwork) not all of it is _about_ a subject sending a message. There are cases where the artist might have had a concept in mind when creating the artwork, but the importance of this concept is only relevant to the process of creation, so the final result is a mere shadow of the artist's idea. In some cases, the artist tries to contextualize their work by giving it a suggestive name, so to connect the consumer to their original idea. But the work *itself* does not say anything. An example of this is abstract, or non-figurative art, which most often does not encompass objective information.
 
 What are those works for, then?
 

@@ -1,31 +1,64 @@
 ---
 author: "lookee"
-title: "i still don't know what art is"
-date: "2022-10-14"
-description: "here's my thought process for that conclusion anyway"
-tags: ["art"]
-categorias: ["art", "thought"]
+title: "eu ainda não sei o que é arte"
+date: "2022-10-15"
+description: "aqui está a minha linha de raciocínio até chegar a essa conclusão, de qualquer forma"
+tags: ["arte", "filosofia"]
+categorias: ["Pensamentos"]
 aliases: ["art"]
 ShowToc: true
 TocOpen: true
-draft: true
 weight: 2
 ---
 
-Have you ever seen someone stop and stare at something that they are impressed by and say: "That's art!"?
+Você já viu alguém parar, olhar para algo que acham impressionante e dizer: "Isso é arte!"?
 
-People usually say this in a hyperbolic tone when they finish their work or do something they're proud of. But this bugged me out. Why would they say that? Is art really just another word for "impressive"? What *is* art anyway?
+As pessoas normalmente falam isso num tom hiperbólico quando eles terminam algum trabalho ou fazem alguma coisa de que se orgulham. Mas isso até me incomoda. Por que alguém falaria isso? "Arte" é realmente só uma outra palavra pra "impressionante"? O que *é* arte, de fato?
 
-So I started to think about it. First, what do people call art?
+Então eu comecei a pensar no assunto. Primeiro, o que as pessoas chamam de arte?
 
-## "Art"
+## "Arte"
 
-A lot of things can be called art. Among them: painting/drawing, sculpting, music, writing, dance, etc. Not to use the term "visual arts", that is. Those are just a sample of the many things that are categorized into art. It would be reasonable to say that all of those things involve some sort of expression. The artist, who produces the art, attempts to communicate a message through an unusual, different means; one that is supposedly more efficient, detailed or abstract.
+Muitas coisas podem ser chamadas de arte. Entre elas: pintura/desenho, escultura, música, escrita, dança, etc. Isso pra não usar o termo "artes visuais". E essas são apenas uma algumas das muitas coisas que são categorizadas como arte.  Seria lógico dizer que todas essas coisas envolvem algum tipo de expressão. O artista, que produz a arte, tenta comunicar uma mensagem por meios inusitados e diferentes; meios que são supostamente mais eficientes, detalhados ou abstratos.
 
-From this point of view, art refers to an alternate way of communication than what we use most frequently in our lives, such as colloquial language. Using different methods, the artist tries to convey ideas that are difficult to express, such as feelings, or expand on simple concepts. An interesting thing about defining art this way is that it opens room for elaboration: if art is communication, it means that necessarily, for something to be considered art, it must involve at least two parties: the communicator and the recipient. There is the artist, and the art's consumer, be it a critic or whoever else. As such, art is not just about the artist, it's also about whoever is going to perceive it.
+Deste ponto de vista, a arte refere-se a uma forma de comunicação alternativa ao que usamos com mais frequência em nossas vidas, como a linguagem coloquial. Usando diferentes métodos, o artista tenta transmitir ideias difíceis de expressar, como sentimentos, ou expandir conceitos simples.  Uma coisa interessante sobre definir arte dessa forma é que ela abre espaço para desenvolvimento: se arte é comunicação, significa que necessariamente, para algo ser considerado arte, deve envolver pelo menos duas partes: o comunicador e o destinatário. Existe o artista, e o consumidor da arte, seja ele um crítico ou quem quer que seja. Como tal, a arte não é apenas sobre o artista, é também sobre quem vai percebê-la.
 
-However, thinking like this has its caveats. Communication is the transmission of information, or messages. This implies that art requires a message. Now, *does all of art really involve sending or receiving a message?*
+No entanto, pensar assim tem suas ressalvas. A comunicação é a transmissão de informações, ou mensagens. Isso implica que a arte requer uma mensagem. Agora, *toda arte envolve realmente enviar ou receber uma mensagem?*
 
-## Messages in art
+## Mensagens na arte
 
-Not all of art is about a subject sending a message.
+Mesmo que a arte envolva dar forma a uma ideia, (através da criação da obra) nem tudo é _sobre_ um assunto que envia uma mensagem. Há casos em que o artista tem um conceito em mente ao criar a obra, mas a importância desse conceito é relevante apenas para o processo de criação, de modo que o resultado final é uma mera sombra da ideia do artista. Em algumas situações, o artista tenta contextualizar seu trabalho dando-lhe um nome sugestivo, de modo a conectar o consumidor à sua ideia original. Mas a obra *em si* não diz nada. Um exemplo disso é a arte abstrata, ou não figurativa, que na maioria das vezes não envolve informações objetivas.
+
+Para que servem essas obras, então?
+
+### A beleza da arte
+
+Quando uma obra de arte não expressa ideias majoritariamente objetivas, a sua interpretação fica a cargo do observador. É aqui que o argumento da comunicação falha.
+
+A obra de arte, nessa situação, pode ser entendida de outra forma. O artista, guiado por qualquer intenção que tenha (seja expressão, protesto, estudo ou qualquer outra coisa) cria um substrato – a obra de arte – que o consumidor pode usar para ajudá-lo a entender um conceito. Dessa forma, a obra de arte é um catalisador, que não altera significativamente o produto, mas auxilia principalmente na sua produção: a formação de uma ideia sólida.
+
+Certo. Assim, a arte pode ser:
+ - uma mensagem, colocada de outra forma
+ - uma ferramenta para construir ideias sobre
+
+certo?
+
+## Arte não é só para nerds
+
+Não vamos esquecer uma das principais razões pelas quais a arte tem sido tão popular e grande.  As pessoas gostam de arte por uma coisa, talvez acima de tudo:
+
+### A arte é agradável
+
+A maior parte da população gosta de arte porque ela é agradável. Às vezes, eles nem se importam muito com a mensagem, como se sentem sobre ela ou o que podem tirar de proveito. Para eles, a arte pode representar algo vão como entretenimento ou um passatempo divertido. Não há nada de errado nisso e, na verdade, isso é uma coisa boa. A arte é uma forma de comunicação muito transmissível, porque a mensagem interior pode ser disfarçada no entretenimento, na forma de lazer.
+
+Às vezes, o ato de aprimorar qualquer coisa, seja na sua funcionalidade quanto na sua estética pode ser considerado arte. Tomemos como exemplo a arquitetura ou design de produto. Não é arte com foco numa ideia ou informação, mas apenas em tornar algo melhor do que já é.
+
+ ---
+
+A arte pode ser uma mensagem, uma tela para sentimentos e ideias, um produto, entretenimento,
+
+ou qualquer coisa que as pessoas fazem e que outras pessoas ficam impressionadas.
+
+Muitas coisas. É um termo muito vago, de fato. Talvez precisemos de mais palavras para a arte.
+
+De qualquer forma, ainda não sei o que é arte.
