@@ -1,4 +1,4 @@
-```yaml
+---
 author: "lookee"
 title: "i still don't know what art is"
 date: "2022-10-14"
@@ -10,7 +10,7 @@ ShowToc: true
 TocOpen: true
 draft: true
 weight: 2
-```
+---
 
 Have you ever seen someone stop and stare at something that they are impressed by and say: "That's art!"?
 
