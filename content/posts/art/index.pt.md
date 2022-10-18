@@ -6,6 +6,7 @@ description: "aqui está a minha linha de raciocínio até chegar a essa conclus
 tags: ["arte", "filosofia"]
 categorias: ["Pensamentos"]
 aliases: ["art"]
+url: posts/arte
 ShowToc: true
 TocOpen: true
 weight: 2

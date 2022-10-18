@@ -3,6 +3,12 @@ paginate: 5
 theme: PaperMod
 defaultContentLanguage: en
 
+outputs:
+  home:
+      - HTML
+      - RSS
+      - JSON
+
 enableRobotsTXT: true
 buildDrafts: false
 buildFuture: false
@@ -74,7 +80,7 @@ params:
   # home-info mode
   homeInfoParams:
     Title: "lookee's"
-    Content: "collection of very professional writings on topics i am very knowledgeable about"
+    Content: "collection of very professional writings on topics i am very knowledgeable about, skillfully written"
 
   socialIcons:
     - name: twitter
@@ -120,6 +126,10 @@ menu:
       name: tags
       url: /tags/
       weight: 20
+    - identifier: search
+      name: search
+      url: /search/
+      weight: 30
 # Read: https://github.com/adityatelange/hugo-PaperMod/wiki/FAQs#using-hugos-syntax-highlighter-chroma
 pygmentsUseClasses: true
 markup:

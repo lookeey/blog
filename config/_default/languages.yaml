@@ -1,9 +1,7 @@
 en:
   baseUrl: "https://lookee.how"
-  params:
-    description: "a"
 
-pt-br:
+pt:
   baseUrl: "https://br.lookee.how"
   params:
     description: "coleção de artigos muito profissionais acerca de assuntos dos quais tenho muito conhecimento, escritos com altímissima habilidade"
@@ -26,6 +24,10 @@ pt-br:
         name: tags
         url: /tags/
         weight: 20
+      - identifier: pesquisa
+        name: pesquisar
+        url: /pesquisa/
+        weight: 30
 
   taxonomies:
     categoria: categorias

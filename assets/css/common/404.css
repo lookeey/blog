@@ -1,0 +1,18 @@
+.not-found {
+    position: absolute;
+    left: 0;
+    right: 0;
+    padding: 0 18px;
+    display: flex;
+    text-align: center;
+    align-items: center;
+    flex-direction: column;
+    justify-content: center;
+    height: 80%;
+    font-size: 32px;
+    font-weight: 700;
+}
+
+.not-found span {
+    font-size: 84px;
+}
