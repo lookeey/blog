@@ -16,10 +16,10 @@ pt:
 
   menu:
     main:
-      - identifier: categorias
-        name: categorias
-        url: /categorias/
-        weight: 10
+      #- identifier: categorias
+      #  name: categorias
+      #  url: /categorias/
+      #  weight: 10
       - identifier: tags
         name: tags
         url: /tags/
@@ -28,6 +28,19 @@ pt:
         name: pesquisar
         url: /pesquisa/
         weight: 30
+    footer:
+    - identifier: categorias
+      name: categorias
+      url: /categorias/
+      weight: 10
+    - identifier: tags
+      name: tags
+      url: /tags/
+      weight: 20
+    - identifier: pesquisar
+      name: pesquisar
+      url: /pesquisa/
+      weight: 30
 
   taxonomies:
     categoria: categorias
