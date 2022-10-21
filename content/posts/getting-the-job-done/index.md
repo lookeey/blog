@@ -1,7 +1,7 @@
 ---
 
 author: "lookee"
-title: "the best framework you'll ever use for your next web development project"
+title: "the 'best framework' you'll ever use (before a new one pops up)"
 date: "2022-10-19"
 description: "sometimes the coolest isn't the best"
 tags: ["technology", "development"]

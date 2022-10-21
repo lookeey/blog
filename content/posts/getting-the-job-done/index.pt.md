@@ -1,7 +1,7 @@
 ---
 
 author: "lookee"
-title: "o melhor framework que você vai usar para o seu próximo projeto de desenvolvimento web"
+title: "o melhor framework web de todos (até aparecer um novo)"
 date: "2022-10-20"
 description: "às vezes o mais legal não é o melhor"
 tags: ["tecnologia", "desenvolvimento"]
