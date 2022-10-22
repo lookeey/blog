@@ -6,6 +6,7 @@ date: "2022-10-19"
 description: "sometimes the coolest isn't the best"
 tags: ["technology", "development"]
 categories: ["Thoughts"]
+comments: true
 aliases: ["web"]
 ShowToc: true
 TocOpen: true

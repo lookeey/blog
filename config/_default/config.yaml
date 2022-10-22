@@ -15,6 +15,7 @@ buildFuture: false
 buildExpired: false
 
 googleAnalytics: G-92L1LFBZCR
+disqusShortname: lookees
 
 minify:
   disableXML: true
